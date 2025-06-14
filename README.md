@@ -1,7 +1,7 @@
 ### SYNCHRONOUS-UP-COUNTER
-##Developed by: NADISH.S
-
-##RegisterNumber: 212224050023
+### name: S.NADISH
+### REG NO:212224050023
+### DATE: 06/05/2025 
 
 **AIM:**
 
